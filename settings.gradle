@@ -1,0 +1,3 @@
+include ':coordenadas_geograficas'
+include ':app'
+rootProject.name = "Coordenadas_Geograficas"
